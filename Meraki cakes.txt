@@ -1,0 +1,7 @@
+App Name - Meraki Cakes 
+1. HOME SCREEN : Create a main screen as a "welcome screen". Create a button, using switch navigator, switch to "feed screen".   
+2. FEED SCREEN : Picture of the cakes on the "feed screen", using switch navigator, switch to "cake screen".
+3. CAKE SCREEN : Details of the cake with price. 
+4. CONTACT SCREEN : Contact details of the Meraki Cakes.
+5. FEEDBACK FORM: Create a feedback form. 
+ 
